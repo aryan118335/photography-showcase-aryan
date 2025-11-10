@@ -2,4 +2,4 @@
 A Photography Showcase webpage built using HTML and CSS.
 
 # Deployed Website:
-showcase-photography.netlify.app
+https://showcase-photography.netlify.app
